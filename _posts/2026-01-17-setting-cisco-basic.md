@@ -59,7 +59,7 @@ Password:
 
 ```
 
-'''console
+```console
 Sw1#
 Sw1#show run
 Building configuration...
