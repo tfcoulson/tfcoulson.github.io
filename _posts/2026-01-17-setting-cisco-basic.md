@@ -313,3 +313,17 @@ _Connecting over ssh_
 
 ![Desktop View](/assets/img/posts/2026-01-17-setting-cisco-basic/wireshark_ssh.png)
 _Wireshark capture displaying ssh encrypted traffic_
+
+
+
+> **Note:**  
+> Don't forget to save!
+{: .prompt-info }
+
+```console
+Sw1#
+Sw1#write
+Building configuration...
+[OK]
+Sw1#
+```
